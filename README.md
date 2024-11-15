@@ -24,6 +24,7 @@ project-folder/
 ├── deployment.yaml       # Kubernetes deployment file  
 ├── service.yaml          # Kubernetes service file  
 ├── node-port-service.yaml # Service with NodePort configuration  
+```
 
 ## Setup Workflow
 
